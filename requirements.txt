@@ -1,2 +1,2 @@
 sqlite3
-pyTelegramBotAPI 4.7.1
+telebot
